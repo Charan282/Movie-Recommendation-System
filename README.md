@@ -105,6 +105,7 @@ url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=YOUR_API_KEY&langu
 
 - Dataset: [Kaggle - TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 - API: [The Movie Database (TMDB)](https://www.themoviedb.org/)
+- Access the similarity.pkl: (https://drive.google.com/file/d/1BvkuchvM3lkiFVz7BKsVb0elG67L34wD/view?usp=drive_link)
 - Inspired by: YouTube ML tutorials
 ---
 
