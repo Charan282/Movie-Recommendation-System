@@ -112,4 +112,3 @@ url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=YOUR_API_KEY&langu
 
 **Sri Naga Charan Gampala**  
 🎓 Master’s in Data Science, University at Buffalo  
-📬 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/srinagacharang)) 
